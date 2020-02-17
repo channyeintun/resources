@@ -1,6 +1,6 @@
 useful-resources
 =================
-[Useful-resources](./useful-resources.txt)
+[Useful-resources](https://github.com/channyeintun/useful-resources/blob/master/useful-sites.txt)
 
 
 JAVA
