@@ -14,8 +14,8 @@ JAVA
 [Hacker Noon](https://hackernoon.com)\
 [Java Dev Journal](https://www.javadevjournal.com)\
 [Spring IO](https://docs.spring.io)\
-[Zetcode](zetcode.com)\
-[MKYong](mkyong.com)\
+[Zetcode](http://zetcode.com/)\
+[MKYong](https://mkyong.com/)\
 [Geeks for Geeks](https://www.geeksforgeeks.org)\
 [Augular](https://github.com/mraible/ng-demo)\
 [Fruzenshtein](http://fruzenshtein.com)
