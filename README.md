@@ -21,4 +21,4 @@ JAVA
 [Fruzenshtein](http://fruzenshtein.com)\
 [The Open Tutorials](http://theopentutorials.com)\
 [Holmeshe](https://holmeshe.me)\
-[Hacks Plaining](https://www.hacksplaining.com)\
+[Hacks Plaining](https://www.hacksplaining.com)
