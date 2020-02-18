@@ -18,5 +18,7 @@ JAVA
 [MKYong](https://mkyong.com/)\
 [Geeks for Geeks](https://www.geeksforgeeks.org)\
 [Augular](https://github.com/mraible/ng-demo)\
-[Fruzenshtein](http://fruzenshtein.com)
-[The Open Tutorials](http://theopentutorials.com/)
+[Fruzenshtein](http://fruzenshtein.com)\
+[The Open Tutorials](http://theopentutorials.com)\
+[Holmeshe](https://holmeshe.me)\
+[Hacks Plaining](https://www.hacksplaining.com)\
