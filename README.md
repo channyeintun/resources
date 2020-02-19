@@ -22,3 +22,7 @@ JAVA
 [The Open Tutorials](http://theopentutorials.com)\
 [Holmeshe](https://holmeshe.me)\
 [Hacks Plaining](https://www.hacksplaining.com)
+[JS Array](https://jsarray.com/)
+[A curated list of high quality coding style conventions and standards](https://github.com/Kristories/awesome-guidelines)
+[Refactoring guru](https://refactoring.guru/)
+
