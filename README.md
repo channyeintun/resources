@@ -26,3 +26,6 @@ JAVA
 [A curated list of high quality coding style conventions and standards](https://github.com/Kristories/awesome-guidelines)\
 [Refactoring guru](https://refactoring.guru/)
 
+JavaScript
+----------
+[Visualize stack and queue](http://latentflip.com/loupe/)
