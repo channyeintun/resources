@@ -2,7 +2,8 @@ useful-resources
 =================
 [Useful-resources](https://github.com/channyeintun/useful-resources/blob/master/useful-sites.txt)\
 [Scrimba](https://scrimba.com/)
-
+[Freecodecamp](freecodecamp.org)
+[1000projects](http://1000projects.org)
 
 JAVA
 ------
