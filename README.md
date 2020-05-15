@@ -30,7 +30,7 @@ JAVA
 
 JavaScript
 ----------
-[Visualize stack and queue](http://latentflip.com/loupe/)
+[Visualize stack and queue](http://latentflip.com/loupe/)\
 [Javascript beginner to intermediate](https://javascript30.com/)
 
 Math
