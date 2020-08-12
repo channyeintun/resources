@@ -1,10 +1,10 @@
 useful-resources
 =================
 [Useful-resources](https://github.com/channyeintun/useful-resources/blob/master/useful-sites.txt)\
-[Scrimba](https://scrimba.com/)
-[Freecodecamp](freecodecamp.org)
-[1000projects](http://1000projects.org)
-[getwaves.io](getwaves.io)
+[Scrimba](https://scrimba.com/)\
+[Freecodecamp](freecodecamp.org)\
+[1000projects](http://1000projects.org)\
+[getwaves.io](getwaves.io)\
 
 JAVA
 ------
@@ -27,8 +27,8 @@ JAVA
 [Hacks Plaining](https://www.hacksplaining.com)\
 [JS Array](https://jsarray.com/)\
 [A curated list of high quality coding style conventions and standards](https://github.com/Kristories/awesome-guidelines)\
-[Refactoring guru](https://refactoring.guru/)
-[SpringFramework.guru](https://springframework.guru)
+[Refactoring guru](https://refactoring.guru/)\
+[SpringFramework.guru](https://springframework.guru)\
 
 JavaScript
 ----------
