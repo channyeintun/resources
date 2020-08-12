@@ -4,6 +4,7 @@ useful-resources
 [Scrimba](https://scrimba.com/)
 [Freecodecamp](freecodecamp.org)
 [1000projects](http://1000projects.org)
+[getwaves.io](getwaves.io)
 
 JAVA
 ------
