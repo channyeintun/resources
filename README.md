@@ -5,6 +5,8 @@ useful-resources
 [Freecodecamp](freecodecamp.org)\
 [1000projects](http://1000projects.org)\
 [getwaves.io](getwaves.io)\
+[Edabit](https://edabit.com)
+[CodeSignal](https://codesignal.com/)
 
 JAVA
 ------
