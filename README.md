@@ -22,18 +22,18 @@ JAVA
 [Zetcode](http://zetcode.com/)\
 [MKYong](https://mkyong.com/)\
 [Geeks for Geeks](https://www.geeksforgeeks.org)\
-[Augular](https://github.com/mraible/ng-demo)\
 [Fruzenshtein](http://fruzenshtein.com)\
 [The Open Tutorials](http://theopentutorials.com)\
 [Holmeshe](https://holmeshe.me)\
 [Hacks Plaining](https://www.hacksplaining.com)\
-[JS Array](https://jsarray.com/)\
 [A curated list of high quality coding style conventions and standards](https://github.com/Kristories/awesome-guidelines)\
 [Refactoring guru](https://refactoring.guru/)\
 [SpringFramework.guru](https://springframework.guru)
 
 JavaScript
 ----------
+[Augular](https://github.com/mraible/ng-demo)\
+[JS Array](https://jsarray.com/)\
 [Visualize stack and queue](http://latentflip.com/loupe/)\
 [Javascript beginner to intermediate](https://javascript30.com/)
 
