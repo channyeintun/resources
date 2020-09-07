@@ -6,7 +6,8 @@ useful-resources
 [1000projects](http://1000projects.org)\
 [getwaves.io](getwaves.io)\
 [Edabit](https://edabit.com)\
-[CodeSignal](https://codesignal.com/)
+[CodeSignal](https://codesignal.com/)\
+[Design Patterns](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)
 
 JAVA
 ------
