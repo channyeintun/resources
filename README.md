@@ -34,6 +34,7 @@ JAVA
 JavaScript
 ----------
 [Augular](https://github.com/mraible/ng-demo)\
+[Angular](https://coursetro.com/)\
 [JS Array](https://jsarray.com/)\
 [Visualize stack and queue](http://latentflip.com/loupe/)\
 [Javascript beginner to intermediate](https://javascript30.com/)
