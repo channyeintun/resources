@@ -7,6 +7,7 @@ useful-resources
 [getwaves.io](getwaves.io)\
 [Edabit](https://edabit.com)\
 [CodeSignal](https://codesignal.com/)\
+[Grindreel](https://grindreel.academy/)
 [Design Patterns](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)
 
 JAVA
