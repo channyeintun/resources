@@ -9,7 +9,8 @@ useful-resources
 [CodeSignal](https://codesignal.com/)\
 [Grindreel](https://grindreel.academy/)\
 [Design Patterns](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)\
-[Fullstackopen](https://fullstackopen.com/)
+[Fullstackopen](https://fullstackopen.com/)\
+[Interviews](https://interviews.school/)
 
 JAVA
 ------
