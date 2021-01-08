@@ -56,4 +56,4 @@ Application platforms for build,deploy, and release
 [Waypointproject](https://www.waypointproject.io/)\
 [Heroku](https://www.heroku.com/)\
 [Vercel](https://vercel.com/)\
-[Netlify](https://www.netlify.com/)\
+[Netlify](https://www.netlify.com/)
