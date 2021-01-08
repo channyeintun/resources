@@ -49,3 +49,11 @@ Math
 
 color
 [adobe color](https://color.adobe.com/create)
+
+
+Application platforms for build,deploy, and release
+[CloudFoundry](https://www.cloudfoundry.org/)\
+[Waypointproject](https://www.waypointproject.io/)\
+[Heroku](https://www.heroku.com/)\
+[Vercel](https://vercel.com/)\
+[Netlify](https://www.netlify.com/)\
