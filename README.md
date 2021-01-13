@@ -10,7 +10,8 @@ useful-resources
 [Grindreel](https://grindreel.academy/)\
 [Design Patterns](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)\
 [Fullstackopen](https://fullstackopen.com/)\
-[Interviews](https://interviews.school/)
+[Interviews](https://interviews.school/)\
+[Learn x by doing y](https://aquadzn.github.io/learn-x-by-doing-y/)
 
 JAVA
 ------
