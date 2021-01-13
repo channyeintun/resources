@@ -13,7 +13,8 @@ useful-resources
 [Interviews](https://interviews.school/)\
 [Learn x by doing y](https://aquadzn.github.io/learn-x-by-doing-y/)\
 [Good Ramda Resources](https://randycoulman.com/blog/categories/thinking-in-ramda)\
-[Category Theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory)
+[Category Theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory)\
+[CS Youtube videos](https://laconicml.com/computer-science-curriculum-youtube-videos/)
 
 JAVA
 ------
