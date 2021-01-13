@@ -45,6 +45,14 @@ JavaScript
 [Thinkster](https://thinkster.io/)\
 [Module,Observer,Prototype,Singleton Design Patterns](https://www.digitalocean.com/community/tutorial_series/javascript-design-patterns)
 
+Kotlin
+---------
+[Introduction to Kotlin](https://www.oreilly.com/library/view/introduction-to-kotlin/9781491964125/)\
+[Advanced Kotlin](https://www.oreilly.com/library/view/advanced-kotlin-programming/9781491964149/)\
+[Kotlin by example](https://play.kotlinlang.org/byExample/overview?_ga=2.217317206.1553730931.1610520425-1649066417.1609920389)\
+[Kotlin for java developers course](https://www.coursera.org/learn/kotlin-for-java-developers/)
+
+
 Math
 -----
 [Secrets of Math Oxford University](http://podcasts.ox.ac.uk/series/secrets-mathematics)
