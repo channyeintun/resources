@@ -52,6 +52,20 @@ Kotlin
 [Kotlin by example](https://play.kotlinlang.org/byExample/overview?_ga=2.217317206.1553730931.1610520425-1649066417.1609920389)\
 [Kotlin for java developers course](https://www.coursera.org/learn/kotlin-for-java-developers/)
 
+Go
+----
+[Ref specification](https://golang.org/ref/spec)\
+[Documentation](https://godoc.org/ )\
+[Go by example](https://gobyexample.com/)\
+[Go web example](https://gowebexamples.com/ )\
+[Golang cafe](https://golang.cafe/)\
+[Go bridge forum](https://forum.golangbridge.org/)\
+[Golang bot](https://golangbot.com/)\
+[GIFM](https://gifm.dev/)\
+[Your basic](https://yourbasic.org/)\
+[Learn go with tests](https://quii.gitbook.io/learn-go-with-tests/ )\
+[Learn x in y minutes](https://learnxinyminutes.com/docs/go/)\
+[Intro books](https://www.golang-book.com/books/intro)
 
 Math
 -----
