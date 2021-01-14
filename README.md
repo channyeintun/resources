@@ -15,7 +15,8 @@ useful-resources
 [Good Ramda Resources](https://randycoulman.com/blog/categories/thinking-in-ramda)\
 [Category Theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory)\
 [CS Youtube videos](https://laconicml.com/computer-science-curriculum-youtube-videos/)\
-[Amplication - create web app without code](https://app.amplication.com/)
+[Amplication - create web app without code](https://app.amplication.com/)\
+[Bearer.sh API Monitoring](https://www.bearer.sh/)
 
 JAVA
 ------
