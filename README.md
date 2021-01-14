@@ -16,7 +16,10 @@ useful-resources
 [Category Theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory)\
 [CS Youtube videos](https://laconicml.com/computer-science-curriculum-youtube-videos/)\
 [Amplication - create web app without code](https://app.amplication.com/)\
-[Bearer.sh API Monitoring](https://www.bearer.sh/)
+[Bearer.sh API Monitoring](https://www.bearer.sh/)\
+[Cloudinary](https://cloudinary.com/)\
+[imgix](https://www.imgix.com/)\
+[Vultr](https://www.vultr.com/)
 
 JAVA
 ------
