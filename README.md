@@ -19,7 +19,8 @@ useful-resources
 [Bearer.sh API Monitoring](https://www.bearer.sh/)\
 [Cloudinary](https://cloudinary.com/)\
 [imgix](https://www.imgix.com/)\
-[Vultr](https://www.vultr.com/)
+[Vultr](https://www.vultr.com/)\
+[Yagni](https://martinfowler.com/bliki/Yagni.html)
 
 JAVA
 ------
