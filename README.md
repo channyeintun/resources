@@ -98,4 +98,5 @@ Application platforms for build,deploy, and release
 
 Docker, Container, Kubernetes
 ------------------------------
-[Container.Training](https://container.training/)
+[Container.Training](https://container.training/)\
+[Docker-curriculum](https://docker-curriculum.com/)
