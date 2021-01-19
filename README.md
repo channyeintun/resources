@@ -20,8 +20,9 @@ useful-resources
 [Cloudinary](https://cloudinary.com/)\
 [imgix](https://www.imgix.com/)\
 [Vultr](https://www.vultr.com/)\
-[Yagni](https://martinfowler.com/bliki/Yagni.html)
-[Video with Wistia](https://wistia.com/)
+[Yagni](https://martinfowler.com/bliki/Yagni.html)\
+[Video with Wistia](https://wistia.com/)\
+[Videojs player](https://videojs.com/)
 
 JAVA
 ------
