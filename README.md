@@ -22,7 +22,9 @@ useful-resources
 [Vultr](https://www.vultr.com/)\
 [Yagni](https://martinfowler.com/bliki/Yagni.html)\
 [Video with Wistia](https://wistia.com/)\
-[Videojs player](https://videojs.com/)
+[Videojs player](https://videojs.com/)\
+[Sitepoint](https://www.sitepoint.com/)\
+[Smashing magazine](https://www.smashingmagazine.com/)
 
 JAVA
 ------
