@@ -58,7 +58,8 @@ JavaScript
 [Javascript beginner to intermediate](https://javascript30.com/)\
 [Javascript course](https://mega.nz/folder/P4tnTZAL#uXR10IqocBZNwfjojFcNwA)\
 [Thinkster](https://thinkster.io/)\
-[Module,Observer,Prototype,Singleton Design Patterns](https://www.digitalocean.com/community/tutorial_series/javascript-design-patterns)
+[Module,Observer,Prototype,Singleton Design Patterns](https://www.digitalocean.com/community/tutorial_series/javascript-design-patterns)\
+[React Patterns](reactpatterns.com)
 
 Kotlin
 ---------
