@@ -59,7 +59,8 @@ JavaScript
 [Javascript course](https://mega.nz/folder/P4tnTZAL#uXR10IqocBZNwfjojFcNwA)\
 [Thinkster](https://thinkster.io/)\
 [Module,Observer,Prototype,Singleton Design Patterns](https://www.digitalocean.com/community/tutorial_series/javascript-design-patterns)\
-[React Patterns](reactpatterns.com)
+[React Patterns](reactpatterns.com)\
+[Lodash](https://lodash.com/)
 
 Kotlin
 ---------
