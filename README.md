@@ -61,7 +61,7 @@ JavaScript
 [Module,Observer,Prototype,Singleton Design Patterns](https://www.digitalocean.com/community/tutorial_series/javascript-design-patterns)\
 [React Patterns](reactpatterns.com)\
 [Lodash](https://lodash.com/)\
-[Bundle Phobia](https://bundlephobia.com/)
+[Bundle Phobia](https://bundlephobia.com/)\
 
 Kotlin
 ---------
