@@ -60,7 +60,8 @@ JavaScript
 [Thinkster](https://thinkster.io/)\
 [Module,Observer,Prototype,Singleton Design Patterns](https://www.digitalocean.com/community/tutorial_series/javascript-design-patterns)\
 [React Patterns](reactpatterns.com)\
-[Lodash](https://lodash.com/)
+[Lodash](https://lodash.com/)\
+[Bundle Phobia](https://bundlephobia.com/)
 
 Kotlin
 ---------
