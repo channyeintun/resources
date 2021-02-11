@@ -62,6 +62,7 @@ JavaScript
 [React Patterns](reactpatterns.com)\
 [Lodash](https://lodash.com/)\
 [Bundle Phobia](https://bundlephobia.com/)\
+[Redux utilites](https://github.com/redux-utilities)
 
 Kotlin
 ---------
