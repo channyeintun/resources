@@ -114,3 +114,9 @@ Docker, Container, Kubernetes
 Android
 ---------
 [Google trainings](https://developer.android.com/courses)
+
+Rect Native
+-----------
+[React Native dev by Facebook](https://reactnative.dev/docs/getting-started)\
+[React Native Express](reactnative.express)\
+[React Navigation](https://reactnavigation.org/docs)
