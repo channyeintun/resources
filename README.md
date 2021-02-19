@@ -118,5 +118,5 @@ Android
 Rect Native
 -----------
 [React Native dev by Facebook](https://reactnative.dev/docs/getting-started)\
-[React Native Express](reactnative.express)\
-[React Navigation](https://reactnavigation.org/docs)
+[React Native Express](https://www.reactnative.express/)\
+[React Navigation](https://reactnavigation.org/docs/getting-started)
