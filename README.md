@@ -25,7 +25,8 @@ useful-resources
 [Videojs player](https://videojs.com/)\
 [Sitepoint](https://www.sitepoint.com/)\
 [Smashing magazine](https://www.smashingmagazine.com/)\
-[free online courses for cs](https://www.classcentral.com/subject/cs)
+[free online courses for cs](https://www.classcentral.com/subject/cs)\
+[CSS Battle](cssbattle.dev)
 
 JAVA
 ------
