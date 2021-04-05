@@ -28,6 +28,9 @@ useful-resources
 [free online courses for cs](https://www.classcentral.com/subject/cs)\
 [CSS Battle](cssbattle.dev)
 
+SPRING BOOT 
+[0auth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
+
 JAVA
 ------
 [Baeldung](https://www.baeldung.com)\
