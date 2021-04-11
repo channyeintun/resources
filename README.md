@@ -106,7 +106,8 @@ Application platforms for build,deploy, and release
 [Waypointproject](https://www.waypointproject.io/)\
 [Heroku](https://www.heroku.com/)\
 [Vercel](https://vercel.com/)\
-[Netlify](https://www.netlify.com/)
+[Netlify](https://www.netlify.com/)\
+[CircleCI]
 
 
 Docker, Container, Kubernetes
@@ -124,3 +125,13 @@ Rect Native
 [React Native dev by Facebook](https://reactnative.dev/docs/getting-started)\
 [React Native Express](https://www.reactnative.express/)\
 [React Navigation](https://reactnavigation.org/docs/getting-started)
+
+React Essentials
+-------------------
+[ReactJS](https://reactjs.org/)\
+[Redux](https://redux.js.org/)\
+[React Router](https://reactrouter.com/)\
+[Ant Design](https://ant.design/)\
+[React Query](https://react-query.tanstack.com/)\
+[RecoilJs](https://recoiljs.org/)\
+[React Patterns](reactpatterns.com)\
