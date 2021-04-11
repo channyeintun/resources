@@ -129,9 +129,10 @@ Rect Native
 React Essentials
 -------------------
 [ReactJS](https://reactjs.org/)\
-[Redux](https://redux.js.org/)\
+[ReduxJs](https://redux.js.org/)\
+[RecoilJs](https://recoiljs.org/)(Optional)\
 [React Router](https://reactrouter.com/)\
 [Ant Design](https://ant.design/)\
-[React Query](https://react-query.tanstack.com/)\
-[RecoilJs](https://recoiljs.org/)\
+[React Query](https://react-query.tanstack.com/)(Optional)\
+
 [React Patterns](reactpatterns.com)
