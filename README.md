@@ -134,4 +134,4 @@ React Essentials
 [Ant Design](https://ant.design/)\
 [React Query](https://react-query.tanstack.com/)\
 [RecoilJs](https://recoiljs.org/)\
-[React Patterns](reactpatterns.com)\
+[React Patterns](reactpatterns.com)
