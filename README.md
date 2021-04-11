@@ -120,7 +120,7 @@ Android
 ---------
 [Google trainings](https://developer.android.com/courses)
 
-Rect Native
+React Native
 -----------
 [React Native dev by Facebook](https://reactnative.dev/docs/getting-started)\
 [React Native Express](https://www.reactnative.express/)\
