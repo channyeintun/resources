@@ -137,4 +137,10 @@ React Essentials
 [React Router](https://reactrouter.com/)\
 [Ant Design](https://ant.design/)\
 [React Query](https://react-query.tanstack.com/)(Optional)\
-[React Patterns](reactpatterns.com)
+[React Patterns](reactpatterns.com)\
+[Chakra-UI](https://chakra-ui.com/)\
+[Storybookjs](https://storybook.js.org/)\
+[Testing library](testing-library.com)\
+[Formik](formik.org)\
+[material-ui](https://material-ui.com/)\
+[Bootstrap](https://react-bootstrap.github.io/)
