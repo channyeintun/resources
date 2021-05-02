@@ -146,3 +146,7 @@ React Essentials
 [Formik](formik.org)\
 [material-ui](https://material-ui.com/)\
 [Bootstrap](https://react-bootstrap.github.io/)
+
+Functional
+----------
+[F#](https://fsharpforfunandprofit.com/)
