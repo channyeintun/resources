@@ -123,7 +123,8 @@ Docker, Container, Kubernetes
 
 Android
 ---------
-[Google trainings](https://developer.android.com/courses)
+[Google trainings](https://developer.android.com/courses)\
+[Android kotlin](https://developer.android.com/kotlin)
 
 React Native
 -----------
