@@ -146,7 +146,8 @@ React Essentials
 [Testing library](testing-library.com)\
 [Formik](formik.org)\
 [material-ui](https://material-ui.com/)\
-[Bootstrap](https://react-bootstrap.github.io/)
+[Bootstrap](https://react-bootstrap.github.io/)\
+[React Hook form](https://react-hook-form.com/)
 
 Functional
 ----------
