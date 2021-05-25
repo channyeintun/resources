@@ -1,10 +1,11 @@
 CSS Motivation
 ==============
-(Miocene)[https://codepen.io/miocene]
+[Miocene](https://codepen.io/miocene)
 
 
 useful-resources
 =================
+[Codetalks TV](http://codetalks.tv/)
 [Useful-resources](https://github.com/channyeintun/useful-resources/blob/master/useful-sites.txt)\
 [Scrimba](https://scrimba.com/)\
 [Freecodecamp](freecodecamp.org)\
