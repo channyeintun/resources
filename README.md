@@ -159,3 +159,7 @@ React Essentials
 Functional
 ----------
 [F#](https://fsharpforfunandprofit.com/)
+
+Compurter Science
+------------------
+[Free cs courses](https://www.classcentral.com/subject/cs)
