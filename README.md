@@ -36,9 +36,10 @@ useful-resources
 [CSS Battle](cssbattle.dev)
 
 SPRING BOOT 
-[0auth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
-
-[MOOC](https://www.mooc.org/)\
+-------------
+[0auth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)\
+[Spring Security Fundamentals](https://youtube.com/playlist?list=PLEocw3gLFc8XRaRBZkhBEZ_R3tmvfkWZz)\
+[Web Flux Essentials](https://youtube.com/playlist?list=PL0Un1HNdB4jFFNYyB8AcXRIx4nj9kIimS)
 
 JAVA
 ------
@@ -162,4 +163,5 @@ Functional
 
 Compurter Science
 ------------------
-[Free cs courses](https://www.classcentral.com/subject/cs)
+[Free cs courses](https://www.classcentral.com/subject/cs)\
+[MOOC](https://www.mooc.org/)
