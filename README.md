@@ -2,6 +2,18 @@
 [Me and my religions podcast](https://anchor.fm/92.yomama)
 
 
+လူ့စိတ်ကိစ္စနားလည်ဖို့ 
+1 Gene
+2 Evolutionary theory
+3 Biochemistry
+4 Neuroscience
+5 Cognitive Science
+6 Anthropology
+7 Sociology
+8 Psychology
+9 Philosophy
+
+
 CSS Motivation
 ==============
 [Miocene](https://codepen.io/miocene)\
