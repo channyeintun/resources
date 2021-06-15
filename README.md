@@ -19,7 +19,8 @@ CSS Motivation
 ==============
 [Miocene](https://codepen.io/miocene)\
 [Articles by Chris Coyier](https://web.dev/learn/css/conclusion/)\
-[CSS Hell](https://csshell.dev/)
+[CSS Hell](https://csshell.dev/)\
+[meyerweb](https://meyerweb.com/eric/tools/css/reset/)
 
 useful-resources
 =================
