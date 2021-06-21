@@ -52,7 +52,11 @@ useful-resources
 [Sitepoint](https://www.sitepoint.com/)\
 [Smashing magazine](https://www.smashingmagazine.com/)\
 [free online courses for cs](https://www.classcentral.com/subject/cs)\
-[CSS Battle](cssbattle.dev)
+[CSS Battle](cssbattle.dev)  
+
+Free Dev tools
+--------------
+[Free Stuff](https://freestuff.dev/)  
 
 SPRING BOOT 
 -------------
