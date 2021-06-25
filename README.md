@@ -188,3 +188,37 @@ Compurter Science
 ------------------
 [Free cs courses](https://www.classcentral.com/subject/cs)\
 [MOOC](https://www.mooc.org/)
+
+# My bookmarks
+Teach Yourself Computer Science
+https://teachyourselfcs.com/
+
+Google codelabs
+https://codelabs.developers.google.com/
+
+Inheritence(recommended by Ko Thet Khine) 
+https://www.csee.umbc.edu/courses/331/resources/papers/Inheritance.pdf
+
+Software engineering at google
+https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf
+
+Coding Interview University (self studyသမားများအတွက်)
+https://github.com/jwasham/coding-interview-university
+
+Reddit favorites book about programming
+https://redditfavorites.com/books?category_id=programming
+
+CS papers
+https://github.com/papers-we-love/papers-we-love
+
+documentations in one place
+https://devdocs.io/css/
+
+documenation in one place (offline and better)
+https://zealdocs.org/
+
+Js frameworks and tools (best)
+https://bestofjs.org/
+
+
+
