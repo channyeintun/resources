@@ -61,9 +61,11 @@ Free Dev tools
 
 SPRING BOOT 
 -------------
-[0auth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)\
-[Spring Security Fundamentals](https://youtube.com/playlist?list=PLEocw3gLFc8XRaRBZkhBEZ_R3tmvfkWZz)\
-[Web Flux Essentials](https://youtube.com/playlist?list=PL0Un1HNdB4jFFNYyB8AcXRIx4nj9kIimS)
+[0auth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)  
+[Spring Security Fundamentals](https://youtube.com/playlist?list=PLEocw3gLFc8XRaRBZkhBEZ_R3tmvfkWZz)  
+[Web Flux Essentials](https://youtube.com/playlist?list=PL0Un1HNdB4jFFNYyB8AcXRIx4nj9kIimS)  
+[Spring Doc + OpenAPI](https://www.dariawan.com/tutorials/spring/documenting-spring-boot-rest-api-springdoc-openapi-3/)  
+[Unit Testing Rest](https://stackabuse.com/guide-to-unit-testing-spring-boot-rest-apis)
 
 JAVA
 ------
