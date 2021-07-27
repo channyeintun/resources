@@ -224,5 +224,8 @@ Js frameworks and tools (best)
 https://bestofjs.org/
 
 Hibernate or other ORM problem(N+1 query)  
-https://secure.phabricator.com/book/phabcontrib/article/n_plus_one/
+https://secure.phabricator.com/book/phabcontrib/article/n_plus_one/  
+
+JPA criteria
+https://en.wikibooks.org/wiki/Java_Persistence/Criteria
 
