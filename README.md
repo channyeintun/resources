@@ -22,11 +22,13 @@ CSS Motivation
 [Articles by Chris Coyier](https://web.dev/learn/css/conclusion/)\
 [CSS Hell](https://csshell.dev/)\
 [meyerweb](https://meyerweb.com/eric/tools/css/reset/)\
-[Html/CSS guide](https://google.github.io/styleguide/htmlcssguide.html)
+[Html/CSS guide](https://google.github.io/styleguide/htmlcssguide.html)  
+[W3.org](w3.org)  
+[CanIuse](caniuse.com)  
 
 useful-resources
 =================
-[Codetalks TV](http://codetalks.tv/)
+[Codetalks TV](http://codetalks.tv/)  
 [Useful-resources](https://github.com/channyeintun/useful-resources/blob/master/useful-sites.txt)\
 [Scrimba](https://scrimba.com/)\
 [Freecodecamp](freecodecamp.org)\
