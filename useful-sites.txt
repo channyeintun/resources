@@ -22,3 +22,4 @@ https://sanet.st/
 libgen
 allitebook
 pdfdrive
+https://3lib.net/
