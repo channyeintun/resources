@@ -1,5 +1,5 @@
 # CS Concept Map
-[CS Concept Map](https://lm.facebook.com/l.php?u=https%3A%2F%2Fwww.mindmeister.com%2F151175205%2Fwhat-every-computer-science-major-should-know%3Ffullscreen%3D1%26fbclid%3DIwAR0Yx0uIK3jR_gon0WRHwGESN0oN1JeTP6aKnBMCuRcbpuoMgImdqY-tnmE&h=AT0V2snaaYFNgnT92qxylAaE9fgs2XVcQ14FsY81oLns2NGzLIVE4i8KDTcO8gltsENuOS2POYZ6c-Umj2NYF7-YDdXLmNd2JmZyxuEEiFpG3ZdYywGB7qfSGAgz8Q2nIGwOBh4V0fC1J-0o2p7uHCOX8eT9bSfDwmMPm_rizjA531fnZBVUHfJnkBlyAMYmt-XyyMBGykICFAazALFV08cR-4TyBcxbz1wRpdrdF1ok2A3G_b5Xa8cYfkU3UuVL-mdU2LbSLjXXhIf82KXFx5byxtDb_ybYucFPhDUlRy9RTISxw2UIIZVHSC8Qot0lAPF6Ye4YDTGuchDwatj4wbNnAo59vsLYNeZw4yRiSxwXVRCUJ1O3fggXKtiYGFz4Tv3DHB3GHIHTLmrftXXJvW-5QTts)
+[CS Concept Map](https://lm.facebook.com/l.php?u=https%3A%2F%2Fwww.mindmeister.com%2F151175205%2Fwhat-every-computer-science-major-should-know%3Ffullscreen%3D1%26fbclid%3DIwAR0Yx0uIK3jR_gon0WRHwGESN0oN1JeTP6aKnBMCuRcbpuoMgImdqY-tnmE&h=AT0V2snaaYFNgnT92qxylAaE9fgs2XVcQ14FsY81oLns2NGzLIVE4i8KDTcO8gltsENuOS2POYZ6c-Umj2NYF7-YDdXLmNd2JmZyxuEEiFpG3ZdYywGB7qfSGAgz8Q2nIGwOBh4V0fC1J-0o2p7uHCOX8eT9bSfDwmMPm_rizjA531fnZBVUHfJnkBlyAMYmt-XyyMBGykICFAazALFV08cR-4TyBcxbz1wRpdrdF1ok2A3G_b5Xa8cYfkU3UuVL-mdU2LbSLjXXhIf82KXFx5byxtDb_ybYucFPhDUlRy9RTISxw2UIIZVHSC8Qot0lAPF6Ye4YDTGuchDwatj4wbNnAo59vsLYNeZw4yRiSxwXVRCUJ1O3fggXKtiYGFz4Tv3DHB3GHIHTLmrftXXJvW-5QTts)  
 
 
 လူ့စိတ်ကိစ္စနားလည်ဖို့ 
@@ -14,7 +14,8 @@
     8 Psychology
     9 Philosophy
 
-[CourseSity](https://coursesity.com/)
+[CourseSity](https://coursesity.com/)  
+[760+ Programming and Computer Science Courses](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)
 
 CSS Motivation
 ==============
