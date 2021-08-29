@@ -231,4 +231,6 @@ https://secure.phabricator.com/book/phabcontrib/article/n_plus_one/
 
 JPA criteria
 https://en.wikibooks.org/wiki/Java_Persistence/Criteria
-
+  
+Reactive Programming  
+https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
