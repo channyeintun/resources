@@ -173,7 +173,8 @@ React Essentials
 -------------------
 [ReactJS](https://reactjs.org/)\
 [ReduxJs](https://redux.js.org/)\
-[RecoilJs](https://recoiljs.org/)(Optional)\
+[RecoilJs](https://recoiljs.org/)(Optional)  
+[RecoilJs Course](https://course.learnrecoil.com/)  
 [React Router](https://reactrouter.com/)\
 [Ant Design](https://ant.design/)\
 [React Query](https://react-query.tanstack.com/)(Optional)\
