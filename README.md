@@ -27,6 +27,11 @@ CSS Motivation
 [W3.org](w3.org)  
 [CanIuse](caniuse.com)  
 
+Typescript  
+===========  
+[Microsoft](https://devblogs.microsoft.com/typescript/)  
+
+
 useful-resources
 =================
 [Codetalks TV](http://codetalks.tv/)  
