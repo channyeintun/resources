@@ -110,7 +110,8 @@ JavaScript
 [React Patterns](reactpatterns.com)\
 [Lodash](https://lodash.com/)\
 [Bundle Phobia](https://bundlephobia.com/)\
-[Redux utilites](https://github.com/redux-utilities)
+[Redux utilites](https://github.com/redux-utilities)  
+[ECMA Specification 2022](https://tc39.es/ecma262/multipage/#sec-intro)
 
 Kotlin
 ---------
