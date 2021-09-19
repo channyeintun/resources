@@ -64,6 +64,7 @@ useful-resources
 [Smashing magazine](https://www.smashingmagazine.com/)\
 [free online courses for cs](https://www.classcentral.com/subject/cs)\
 [CSS Battle](cssbattle.dev)  
+[Log2Base2 DataStructures and Algorithms](https://log2base2.com/)  
 
 Free Dev tools
 --------------
