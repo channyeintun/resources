@@ -17,7 +17,7 @@
 [CourseSity](https://coursesity.com/)  
 [760+ Programming and Computer Science Courses](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)
 
-CSS Motivation
+Good Web Developer
 ==============
 [Miocene](https://codepen.io/miocene)\
 [Articles by Chris Coyier](https://web.dev/learn/css/conclusion/)\
@@ -26,6 +26,12 @@ CSS Motivation
 [Html/CSS guide](https://google.github.io/styleguide/htmlcssguide.html)  
 [W3.org](w3.org)  
 [CanIuse](caniuse.com)  
+[](https://developer.mozilla.org/)  
+[](https://html.spec.whatwg.org/)  
+[](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)  
+[W3C](https://w3c.github.io/)  
+[Chrome Developer](https://developer.chrome.com/docs/)  
+[CSSWG Wiki](https://wiki.csswg.org/)
 
 Typescript  
 ===========  
