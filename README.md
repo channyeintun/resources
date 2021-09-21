@@ -33,7 +33,8 @@ Good Web Developer
 [Chrome Developer](https://developer.chrome.com/docs/)  
 [CSSWG Wiki](https://wiki.csswg.org/)  
 [CSSWG Drafts](https://drafts.csswg.org/)  
-[CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+[CSS Validator](https://jigsaw.w3.org/css-validator/validator)  
+[How browsers work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 
 Typescript  
 ===========  
