@@ -52,7 +52,6 @@ useful-resources
 [CodeSignal](https://codesignal.com/)\
 [Grindreel](https://grindreel.academy/)\
 [Design Patterns](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)\
-[Fullstackopen](https://fullstackopen.com/)\
 [Interviews](https://interviews.school/)\
 [Resume Examples](https://www.beamjobs.com/resumes/programmer-resume-examples)  
 [CV Examples](https://www.myperfectresume.com/cv/examples/computer-software/programmer)  
@@ -202,7 +201,8 @@ React Essentials
 [Formik](formik.org)\
 [material-ui](https://material-ui.com/)\
 [Bootstrap](https://react-bootstrap.github.io/)\
-[React Hook form](https://react-hook-form.com/)
+[React Hook form](https://react-hook-form.com/)  
+[FullStackOpen](https://fullstackopen.com/)
 
 Functional
 ----------
