@@ -140,8 +140,9 @@ Go
 
 Math
 -----
-[Secrets of Math Oxford University](http://podcasts.ox.ac.uk/series/secrets-mathematics)\
-[MIT open course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+[Secrets of Math Oxford University](http://podcasts.ox.ac.uk/series/secrets-mathematics)  
+[MIT open course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)  
+[Math World](https://mathworld.wolfram.com/)
 
 color
 -----
