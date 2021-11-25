@@ -23,6 +23,7 @@ Good Web Developer
 [CSSWG Wiki](https://wiki.csswg.org/)  
 [CSSWG Drafts](https://drafts.csswg.org/)  
 [CSS Validator](https://jigsaw.w3.org/css-validator)  
+[HTML Validator](https://validator.w3.org/)
 [How browsers work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)  
 [Google Web developers](https://developers.google.com/web)
 
