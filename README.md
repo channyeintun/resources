@@ -31,6 +31,10 @@ Typescript
 ===========  
 [Microsoft](https://devblogs.microsoft.com/typescript/)  
 
+Blockchain
+==========
+[ethereum-blockchain-development](https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development/)  
+
 
 useful-resources
 =================
