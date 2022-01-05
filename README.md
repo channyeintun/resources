@@ -108,6 +108,7 @@ JAVA
 
 JavaScript
 ----------
+[Javascript Info](https://javascript.info/)  
 [Augular](https://github.com/mraible/ng-demo)\
 [Angular](https://coursetro.com/)\
 [JS Array](https://jsarray.com/)\
