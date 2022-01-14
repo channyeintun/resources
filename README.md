@@ -28,7 +28,9 @@ Good Web Developer
 [CSS Validator](https://jigsaw.w3.org/css-validator)  
 [HTML Validator](https://validator.w3.org/)
 [How browsers work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)  
-[Google Web developers](https://developers.google.com/web)
+[Google Web developers](https://developers.google.com/web)  
+[Defensive CSS](https://ishadeed.com/article/defensive-css/)  
+[Maintainable CSS](https://maintainablecss.com/)
 
 Typescript  
 ===========  
