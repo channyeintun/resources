@@ -12,6 +12,11 @@
 [CourseSity](https://coursesity.com/)  
 [760+ Programming and Computer Science Courses](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)
 
+
+# Architecture
+
+[Awesome architecture](https://awesome-architecture.com/)
+
 Good Web Developer
 ==============
 [State of CSS](https://2021.stateofcss.com/en-US/)\
