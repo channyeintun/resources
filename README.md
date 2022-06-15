@@ -53,8 +53,7 @@ Typescript
 
 
 # Learning Websites and Blogs
-[Codetalks TV](http://codetalks.tv/)  
-[Useful-resources](https://github.com/channyeintun/useful-resources/blob/master/useful-sites.txt)\
+[Codetalks TV](http://codetalks.tv/)
 [Scrimba](https://scrimba.com/)\
 [Freecodecamp](freecodecamp.org)\
 [1000projects](http://1000projects.org)\
