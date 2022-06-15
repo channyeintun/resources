@@ -279,33 +279,46 @@ Behave:The biology of humans at our best and worst
 
 How Mind works
 
-𝐅𝐫𝐞𝐞 𝐫𝐞𝐬𝐨𝐮𝐫𝐜𝐞 𝐟𝐨𝐫 𝐲𝐨𝐮𝐫 𝐃𝐞𝐯𝐎𝐩𝐬 𝐂𝐚𝐫𝐞𝐞𝐫  
+# 𝐅𝐫𝐞𝐞 𝐫𝐞𝐬𝐨𝐮𝐫𝐜𝐞 𝐟𝐨𝐫 𝐲𝐨𝐮𝐫 𝐃𝐞𝐯𝐎𝐩𝐬 𝐂𝐚𝐫𝐞𝐞𝐫  
 
-𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐋𝐢𝐧𝐮𝐱
-https://www.edx.org/course/introduction-to-linux
-𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐨𝐟 𝐑𝐞𝐝 𝐇𝐚𝐭 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞 𝐋𝐢𝐧𝐮𝐱
-https://www.edx.org/.../fundamentals-of-red-hat...
-𝐃𝐞𝐯𝐎𝐩𝐬 𝐂𝐮𝐥𝐭𝐮𝐫𝐞 𝐚𝐧𝐝 𝐌𝐢𝐧𝐝𝐬𝐞𝐭
-https://www.coursera.org/learn/devops-culture-and-mindset
-𝐂𝐨𝐧𝐭𝐢𝐧𝐮𝐨𝐮𝐬 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐲 & 𝐃𝐞𝐯𝐎𝐩𝐬
-https://www.coursera.org/.../uva-darden-continous...
-𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐉𝐞𝐧𝐤𝐢𝐧𝐬
-https://www.edx.org/course/introduction-to-jenkins
-𝐃𝐨𝐜𝐤𝐞𝐫 𝐄𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥𝐬
-https://www.udemy.com/course/docker-essentials/
-𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐂𝐥𝐨𝐮𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠
-https://www.coursera.org/learn/introduction-to-cloud
-𝐀𝐖𝐒 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬: 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐀𝐖𝐒 𝐂𝐥𝐨𝐮𝐝 𝐄𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥𝐬
-https://explore.skillbuilder.aws/.../aws-foundations...
-𝐀𝐖𝐒 𝐂𝐥𝐨𝐮𝐝 𝐏𝐫𝐚𝐜𝐭𝐢𝐭𝐢𝐨𝐧𝐞𝐫 𝐄𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥𝐬
-https://explore.skillbuilder.aws/.../aws-cloud...
-𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐰𝐢𝐭𝐡 𝐃𝐞𝐯𝐎𝐩𝐬 𝐨𝐧 𝐀𝐖𝐒
-https://explore.skillbuilder.aws/.../getting-started-with...
-𝐀𝐖𝐒 𝐖𝐨𝐫𝐤𝐬𝐡𝐨𝐩𝐬
-https://workshops.aws/
-𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬: 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐒𝐭𝐚𝐫𝐭𝐞𝐝
-https://www.udemy.com/course/kubernetes-getting-started/
-𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐂𝐥𝐨𝐮𝐝-𝐍𝐚𝐭𝐢𝐯𝐞 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐰𝐢𝐭𝐡 𝐌𝐢𝐜𝐫𝐨𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞𝐬
-https://www.redhat.com/.../do092-developing-cloud-native...
-𝐃𝐞𝐯𝐎𝐩𝐬 𝐓𝐡𝐞 𝐇𝐚𝐫𝐝 𝐖𝐚𝐲 𝐀𝐖𝐒
+## 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐋𝐢𝐧𝐮𝐱
+https://www.edx.org/course/introduction-to-linux  
+
+## 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐨𝐟 𝐑𝐞𝐝 𝐇𝐚𝐭 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞 𝐋𝐢𝐧𝐮𝐱
+https://www.edx.org/.../fundamentals-of-red-hat...  
+
+## 𝐃𝐞𝐯𝐎𝐩𝐬 𝐂𝐮𝐥𝐭𝐮𝐫𝐞 𝐚𝐧𝐝 𝐌𝐢𝐧𝐝𝐬𝐞𝐭
+https://www.coursera.org/learn/devops-culture-and-mindset  
+
+## 𝐂𝐨𝐧𝐭𝐢𝐧𝐮𝐨𝐮𝐬 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐲 & 𝐃𝐞𝐯𝐎𝐩𝐬
+https://www.coursera.org/.../uva-darden-continous...  
+
+## 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐉𝐞𝐧𝐤𝐢𝐧𝐬
+https://www.edx.org/course/introduction-to-jenkins  
+
+## 𝐃𝐨𝐜𝐤𝐞𝐫 𝐄𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥𝐬
+https://www.udemy.com/course/docker-essentials/  
+
+## 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐂𝐥𝐨𝐮𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠
+https://www.coursera.org/learn/introduction-to-cloud  
+
+## 𝐀𝐖𝐒 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬: 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐀𝐖𝐒 𝐂𝐥𝐨𝐮𝐝 𝐄𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥𝐬
+https://explore.skillbuilder.aws/.../aws-foundations...  
+
+## 𝐀𝐖𝐒 𝐂𝐥𝐨𝐮𝐝 𝐏𝐫𝐚𝐜𝐭𝐢𝐭𝐢𝐨𝐧𝐞𝐫 𝐄𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥𝐬
+https://explore.skillbuilder.aws/.../aws-cloud...  
+
+## 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐰𝐢𝐭𝐡 𝐃𝐞𝐯𝐎𝐩𝐬 𝐨𝐧 𝐀𝐖𝐒
+https://explore.skillbuilder.aws/.../getting-started-with...  
+
+## 𝐀𝐖𝐒 𝐖𝐨𝐫𝐤𝐬𝐡𝐨𝐩𝐬
+https://workshops.aws/  
+
+## 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬: 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐒𝐭𝐚𝐫𝐭𝐞𝐝
+https://www.udemy.com/course/kubernetes-getting-started/  
+
+## 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐂𝐥𝐨𝐮𝐝-𝐍𝐚𝐭𝐢𝐯𝐞 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐰𝐢𝐭𝐡 𝐌𝐢𝐜𝐫𝐨𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞𝐬
+https://www.redhat.com/.../do092-developing-cloud-native...  
+
+## 𝐃𝐞𝐯𝐎𝐩𝐬 𝐓𝐡𝐞 𝐇𝐚𝐫𝐝 𝐖𝐚𝐲 𝐀𝐖𝐒
 https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS
