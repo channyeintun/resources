@@ -53,6 +53,7 @@ Typescript
 
 
 # Learning Websites and Blogs
+[Web.dev](https://web.dev)  
 [Codetalks TV](http://codetalks.tv/)
 [Scrimba](https://scrimba.com/)\
 [Freecodecamp](freecodecamp.org)\
