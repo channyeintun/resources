@@ -5,11 +5,13 @@
 # CS Concept Map
 [CS Concept Map](https://lm.facebook.com/l.php?u=https%3A%2F%2Fwww.mindmeister.com%2F151175205%2Fwhat-every-computer-science-major-should-know%3Ffullscreen%3D1%26fbclid%3DIwAR0Yx0uIK3jR_gon0WRHwGESN0oN1JeTP6aKnBMCuRcbpuoMgImdqY-tnmE&h=AT0V2snaaYFNgnT92qxylAaE9fgs2XVcQ14FsY81oLns2NGzLIVE4i8KDTcO8gltsENuOS2POYZ6c-Umj2NYF7-YDdXLmNd2JmZyxuEEiFpG3ZdYywGB7qfSGAgz8Q2nIGwOBh4V0fC1J-0o2p7uHCOX8eT9bSfDwmMPm_rizjA531fnZBVUHfJnkBlyAMYmt-XyyMBGykICFAazALFV08cR-4TyBcxbz1wRpdrdF1ok2A3G_b5Xa8cYfkU3UuVL-mdU2LbSLjXXhIf82KXFx5byxtDb_ybYucFPhDUlRy9RTISxw2UIIZVHSC8Qot0lAPF6Ye4YDTGuchDwatj4wbNnAo59vsLYNeZw4yRiSxwXVRCUJ1O3fggXKtiYGFz4Tv3DHB3GHIHTLmrftXXJvW-5QTts)  
   
- [Ebook-courses-downloader](https://www.ebooks-courses-downloader.com/)  
  
 [CourseSity](https://coursesity.com/)  
 [760+ Programming and Computer Science Courses](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)
 
+# Problem Solving Platforms
+[CodeSignal](https://codesignal.com/)  
+[CSS Battle](cssbattle.dev)
 
 # Interview
 
@@ -20,8 +22,7 @@
 [Coding Interview University](https://github.com/jwasham/coding-interview-university)  
 
 
-Good Web Developer
-==============
+# Good Web Developer
 [State of CSS](https://2021.stateofcss.com/en-US/)\
 [Miocene](https://codepen.io/miocene)\
 [Articles by Chris Coyier](https://web.dev/learn/css/conclusion/)\
@@ -48,39 +49,20 @@ Typescript
 ===========  
 [Microsoft](https://devblogs.microsoft.com/typescript/)  
 
-Blockchain
-==========
-[ethereum-blockchain-development](https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development/)  
 
-
-useful-resources
-=================
+# Learning Websites and Blogs
 [Codetalks TV](http://codetalks.tv/)  
 [Useful-resources](https://github.com/channyeintun/useful-resources/blob/master/useful-sites.txt)\
 [Scrimba](https://scrimba.com/)\
 [Freecodecamp](freecodecamp.org)\
 [1000projects](http://1000projects.org)\
-[getwaves.io](getwaves.io)\
-[CodeSignal](https://codesignal.com/)\
 [Grindreel](https://grindreel.academy/)\
-[Design Patterns](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)\
 [Learn x by doing y](https://aquadzn.github.io/learn-x-by-doing-y/)\
 [Good Ramda Resources](https://randycoulman.com/blog/categories/thinking-in-ramda)\
-[Category Theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory)\
-[CS Youtube videos](https://laconicml.com/computer-science-curriculum-youtube-videos/)\
 [Amplication - create web app without code](https://app.amplication.com/)\
-[Bearer.sh API Monitoring](https://www.bearer.sh/)\
-[Cloudinary](https://cloudinary.com/)\
-[imgix](https://www.imgix.com/)\
-[Vultr](https://www.vultr.com/)\
-[Yagni](https://martinfowler.com/bliki/Yagni.html)\
-[Video with Wistia](https://wistia.com/)\
-[Videojs player](https://videojs.com/)\
 [Sitepoint](https://www.sitepoint.com/)\
 [Smashing magazine](https://www.smashingmagazine.com/)\
-[free online courses for cs](https://www.classcentral.com/subject/cs)\
-[CSS Battle](cssbattle.dev)  
-[Log2Base2 DataStructures and Algorithms](https://log2base2.com/)  
+ 
 
 Free Dev tools
 --------------
@@ -112,9 +94,7 @@ JAVA
 [Fruzenshtein](http://fruzenshtein.com)\
 [The Open Tutorials](http://theopentutorials.com)\
 [Holmeshe](https://holmeshe.me)\
-[Hacks Plaining](https://www.hacksplaining.com)\
 [A curated list of high quality coding style conventions and standards](https://github.com/Kristories/awesome-guidelines)\
-[Refactoring guru](https://refactoring.guru/)\
 [SpringFramework.guru](https://springframework.guru)
 
 JavaScript
@@ -165,8 +145,7 @@ Math
 [MIT open course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)  
 [Math World](https://mathworld.wolfram.com/)
 
-color
------
+# Color Related
 [adobe color](https://color.adobe.com/create)
 
 
@@ -218,7 +197,6 @@ React Essentials
 [React Patterns](reactpatterns.com)\
 [Chakra-UI](https://chakra-ui.com/)\
 [Storybookjs](https://storybook.js.org/)\
-[Testing library](testing-library.com)\
 [Formik](formik.org)\
 [material-ui](https://material-ui.com/)\
 [Bootstrap](https://react-bootstrap.github.io/)\
@@ -226,7 +204,20 @@ React Essentials
 [FullStackOpen](https://fullstackopen.com/)  
 [React Testing Library](https://testing-library.com/)  
 [CyPress Automated Test](https://www.cypress.io/)  
-[Redux Tool Kit](https://redux-toolkit.js.org/)
+[Redux Tool Kit](https://redux-toolkit.js.org/)  
+
+
+# Testing Related
+[Testing library](testing-library.com)  
+[Better Specs](https://www.betterspecs.org/)  
+[Testing Playground Tool](https://testing-playground.com/)
+
+# Software Engineering Related
+[Refactoring guru](https://refactoring.guru/)  
+[Yagni](https://martinfowler.com/bliki/Yagni.html)  
+[Log2Base2 DataStructures and Algorithms](https://log2base2.com/) 
+[Design Patterns](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)  
+
 
 Functional
 ----------
@@ -237,6 +228,10 @@ Compurter Science
 [Free cs courses](https://www.classcentral.com/subject/cs)\
 [MOOC](https://www.mooc.org/)  
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)  
+[CS Youtube videos](https://laconicml.com/computer-science-curriculum-youtube-videos/)  
+[free online courses for cs](https://www.classcentral.com/subject/cs)  
+[Hacks Plaining](https://www.hacksplaining.com)  
+[Category Theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory)  
 
 
 # My bookmarks
@@ -275,14 +270,24 @@ https://en.wikibooks.org/wiki/Java_Persistence/Criteria
 Reactive Programming  
 https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
 
-One Hack
-onehack.us
-pirate bay
 
 # Mind Book
 Behave:The biology of humans at our best and worst  
 
 How Mind works
+
+Blockchain
+==========
+[ethereum-blockchain-development](https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development/)  
+
+# Tools for Web Development
+[getwaves.io](getwaves.io)\
+[Bearer.sh API Monitoring](https://www.bearer.sh/)\
+[Cloudinary](https://cloudinary.com/)\
+[imgix](https://www.imgix.com/)\
+[Vultr](https://www.vultr.com/)\
+[Video with Wistia](https://wistia.com/)\
+[Videojs player](https://videojs.com/)\
 
 # 𝐅𝐫𝐞𝐞 𝐫𝐞𝐬𝐨𝐮𝐫𝐜𝐞 𝐟𝐨𝐫 𝐲𝐨𝐮𝐫 𝐃𝐞𝐯𝐎𝐩𝐬 𝐂𝐚𝐫𝐞𝐞𝐫  
 
@@ -327,3 +332,9 @@ https://www.redhat.com/.../do092-developing-cloud-native...
 
 ## 𝐃𝐞𝐯𝐎𝐩𝐬 𝐓𝐡𝐞 𝐇𝐚𝐫𝐝 𝐖𝐚𝐲 𝐀𝐖𝐒
 https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS
+
+# Download Free Resouces
+[Ebook-courses-downloader](https://www.ebooks-courses-downloader.com/)  
+[One Hack]  
+[onehack.us]  
+[pirate bay]  
