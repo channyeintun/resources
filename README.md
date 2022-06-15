@@ -4,8 +4,6 @@
 
 # CS Concept Map
 [CS Concept Map](https://lm.facebook.com/l.php?u=https%3A%2F%2Fwww.mindmeister.com%2F151175205%2Fwhat-every-computer-science-major-should-know%3Ffullscreen%3D1%26fbclid%3DIwAR0Yx0uIK3jR_gon0WRHwGESN0oN1JeTP6aKnBMCuRcbpuoMgImdqY-tnmE&h=AT0V2snaaYFNgnT92qxylAaE9fgs2XVcQ14FsY81oLns2NGzLIVE4i8KDTcO8gltsENuOS2POYZ6c-Umj2NYF7-YDdXLmNd2JmZyxuEEiFpG3ZdYywGB7qfSGAgz8Q2nIGwOBh4V0fC1J-0o2p7uHCOX8eT9bSfDwmMPm_rizjA531fnZBVUHfJnkBlyAMYmt-XyyMBGykICFAazALFV08cR-4TyBcxbz1wRpdrdF1ok2A3G_b5Xa8cYfkU3UuVL-mdU2LbSLjXXhIf82KXFx5byxtDb_ybYucFPhDUlRy9RTISxw2UIIZVHSC8Qot0lAPF6Ye4YDTGuchDwatj4wbNnAo59vsLYNeZw4yRiSxwXVRCUJ1O3fggXKtiYGFz4Tv3DHB3GHIHTLmrftXXJvW-5QTts)  
-
-
   
  [Ebook-courses-downloader](https://www.ebooks-courses-downloader.com/)  
  
@@ -13,9 +11,14 @@
 [760+ Programming and Computer Science Courses](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)
 
 
-# Architecture
+# Interview
 
-[Awesome architecture](https://awesome-architecture.com/)
+[Interview Warm Up By Google](https://grow.google/certificates/interview-warmup)  
+[Interviews.school](https://interviews.school/)  
+[Resume Examples](https://www.beamjobs.com/resumes/programmer-resume-examples)  
+[CV Examples](https://www.myperfectresume.com/cv/examples/computer-software/programmer)  
+[Coding Interview University](https://github.com/jwasham/coding-interview-university)  
+
 
 Good Web Developer
 ==============
@@ -61,9 +64,6 @@ useful-resources
 [CodeSignal](https://codesignal.com/)\
 [Grindreel](https://grindreel.academy/)\
 [Design Patterns](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)\
-[Interviews](https://interviews.school/)\
-[Resume Examples](https://www.beamjobs.com/resumes/programmer-resume-examples)  
-[CV Examples](https://www.myperfectresume.com/cv/examples/computer-software/programmer)  
 [Learn x by doing y](https://aquadzn.github.io/learn-x-by-doing-y/)\
 [Good Ramda Resources](https://randycoulman.com/blog/categories/thinking-in-ramda)\
 [Category Theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory)\
@@ -176,15 +176,19 @@ Application platforms for build,deploy, and release
 [Waypointproject](https://www.waypointproject.io/)\
 [Heroku](https://www.heroku.com/)\
 [Vercel](https://vercel.com/)\
-[Netlify](https://www.netlify.com/)\
-[CircleCI]
+[Netlify](https://www.netlify.com/)  
+[CircleCI](https://circleci.com/)
 
 
 Docker, Container, Kubernetes
 ------------------------------
 [Container.Training](https://container.training/)\
 [Docker-curriculum](https://docker-curriculum.com/)\
-[](https://www.katacoda.com/courses/docker)
+[Docker Courses](https://www.katacoda.com/courses/docker)
+
+# Architecture
+
+[Awesome architecture](https://awesome-architecture.com/)
 
 Microservices
 -------------
@@ -219,7 +223,10 @@ React Essentials
 [material-ui](https://material-ui.com/)\
 [Bootstrap](https://react-bootstrap.github.io/)\
 [React Hook form](https://react-hook-form.com/)  
-[FullStackOpen](https://fullstackopen.com/)
+[FullStackOpen](https://fullstackopen.com/)  
+[React Testing Library](https://testing-library.com/)  
+[CyPress Automated Test](https://www.cypress.io/)  
+[Redux Tool Kit](https://redux-toolkit.js.org/)
 
 Functional
 ----------
@@ -228,11 +235,11 @@ Functional
 Compurter Science
 ------------------
 [Free cs courses](https://www.classcentral.com/subject/cs)\
-[MOOC](https://www.mooc.org/)
+[MOOC](https://www.mooc.org/)  
+[Teach Yourself Computer Science](https://teachyourselfcs.com/)  
+
 
 # My bookmarks
-Teach Yourself Computer Science  
-https://teachyourselfcs.com/
 
 Google codelabs  
 https://codelabs.developers.google.com/
@@ -243,8 +250,6 @@ https://www.csee.umbc.edu/courses/331/resources/papers/Inheritance.pdf
 Software engineering at google     
 https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf
 
-Coding Interview University (self studyသမားများအတွက်)  
-https://github.com/jwasham/coding-interview-university
 
 Reddit favorites book about programming  
 https://redditfavorites.com/books?category_id=programming
