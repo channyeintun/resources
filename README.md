@@ -122,7 +122,6 @@ Kotlin
 [Kotlin by example](https://play.kotlinlang.org/byExample/overview?_ga=2.217317206.1553730931.1610520425-1649066417.1609920389)\
 [Kotlin for java developers course](https://www.coursera.org/learn/kotlin-for-java-developers/)\
 [Kotlin Official Guides](https://kotlinlang.org/docs/home.html)\
-Kotlin notes for professionals book\
 [Spring and kotlin](https://spring.io/guides/tutorials/spring-boot-kotlin/)
 
 Go
