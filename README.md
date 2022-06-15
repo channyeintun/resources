@@ -63,8 +63,9 @@ Typescript
 [Good Ramda Resources](https://randycoulman.com/blog/categories/thinking-in-ramda)\
 [Amplication - create web app without code](https://app.amplication.com/)\
 [Sitepoint](https://www.sitepoint.com/)\
-[Smashing magazine](https://www.smashingmagazine.com/)\
- 
+[Smashing magazine](https://www.smashingmagazine.com/)  
+[Holmeshe](https://holmeshe.me)  
+
 
 Free Dev tools
 --------------
@@ -77,7 +78,9 @@ SPRING BOOT
 [Spring Security Fundamentals](https://youtube.com/playlist?list=PLEocw3gLFc8XRaRBZkhBEZ_R3tmvfkWZz)  
 [Web Flux Essentials](https://youtube.com/playlist?list=PL0Un1HNdB4jFFNYyB8AcXRIx4nj9kIimS)  
 [Spring Doc + OpenAPI](https://www.dariawan.com/tutorials/spring/documenting-spring-boot-rest-api-springdoc-openapi-3/)  
-[Unit Testing Rest](https://stackabuse.com/guide-to-unit-testing-spring-boot-rest-apis)
+[Unit Testing Rest](https://stackabuse.com/guide-to-unit-testing-spring-boot-rest-apis)  
+[SpringFramework.guru](https://springframework.guru)  
+[Spring IO](https://docs.spring.io)  
 
 JAVA
 ------
@@ -89,15 +92,11 @@ JAVA
 [D Zone](https://dzone.com)\
 [Hacker Noon](https://hackernoon.com)\
 [Java Dev Journal](https://www.javadevjournal.com)\
-[Spring IO](https://docs.spring.io)\
 [Zetcode](http://zetcode.com/)\
 [MKYong](https://mkyong.com/)\
 [Geeks for Geeks](https://www.geeksforgeeks.org)\
 [Fruzenshtein](http://fruzenshtein.com)\
 [The Open Tutorials](http://theopentutorials.com)\
-[Holmeshe](https://holmeshe.me)\
-[A curated list of high quality coding style conventions and standards](https://github.com/Kristories/awesome-guidelines)\
-[SpringFramework.guru](https://springframework.guru)
 
 JavaScript
 ----------
@@ -161,12 +160,6 @@ Application platforms for build,deploy, and release
 [CircleCI](https://circleci.com/)
 
 
-Docker, Container, Kubernetes
-------------------------------
-[Container.Training](https://container.training/)\
-[Docker-curriculum](https://docker-curriculum.com/)\
-[Docker Courses](https://www.katacoda.com/courses/docker)
-
 # Architecture
 
 [Awesome architecture](https://awesome-architecture.com/)
@@ -219,6 +212,7 @@ React Essentials
 [Yagni](https://martinfowler.com/bliki/Yagni.html)  
 [Log2Base2 DataStructures and Algorithms](https://log2base2.com/) 
 [Design Patterns](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)  
+[A curated list of high quality coding style conventions and standards](https://github.com/Kristories/awesome-guidelines)  
 
 
 Functional
@@ -291,6 +285,12 @@ Blockchain
 [Vultr](https://www.vultr.com/)\
 [Video with Wistia](https://wistia.com/)\
 [Videojs player](https://videojs.com/)\
+
+Docker, Container, Kubernetes
+------------------------------
+[Container.Training](https://container.training/)\
+[Docker-curriculum](https://docker-curriculum.com/)\
+[Docker Courses](https://www.katacoda.com/courses/docker)
 
 # 𝐅𝐫𝐞𝐞 𝐫𝐞𝐬𝐨𝐮𝐫𝐜𝐞 𝐟𝐨𝐫 𝐲𝐨𝐮𝐫 𝐃𝐞𝐯𝐎𝐩𝐬 𝐂𝐚𝐫𝐞𝐞𝐫  
 
