@@ -59,7 +59,7 @@ Typescript
 
 # Learning Websites and Blogs
 [Web.dev](https://web.dev)  
-[Codetalks TV](http://codetalks.tv/)
+[Codetalks TV](http://codetalks.tv/)  
 [Scrimba](https://scrimba.com/)\
 [Freecodecamp](freecodecamp.org)\
 [1000projects](http://1000projects.org)\
@@ -71,37 +71,6 @@ Typescript
 [Smashing magazine](https://www.smashingmagazine.com/)  
 [Holmeshe](https://holmeshe.me)  
 
-
-Free Dev tools
---------------
-[Free Stuff](https://freestuff.dev/)  
-[MongoDB](https://university.mongodb.com/)
-
-SPRING BOOT 
--------------
-[0auth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)  
-[Spring Security Fundamentals](https://youtube.com/playlist?list=PLEocw3gLFc8XRaRBZkhBEZ_R3tmvfkWZz)  
-[Web Flux Essentials](https://youtube.com/playlist?list=PL0Un1HNdB4jFFNYyB8AcXRIx4nj9kIimS)  
-[Spring Doc + OpenAPI](https://www.dariawan.com/tutorials/spring/documenting-spring-boot-rest-api-springdoc-openapi-3/)  
-[Unit Testing Rest](https://stackabuse.com/guide-to-unit-testing-spring-boot-rest-apis)  
-[SpringFramework.guru](https://springframework.guru)  
-[Spring IO](https://docs.spring.io)  
-
-JAVA
-------
-[Baeldung](https://www.baeldung.com)\
-[Java Guides](https://www.javaguides.net)\
-[Java Developer Zone](https://javadeveloperzone.com)\
-[Java In Use](https://www.javainuse.com)\
-[Spring Boot Tutorial](https://www.springboottutorial.com)\
-[D Zone](https://dzone.com)\
-[Hacker Noon](https://hackernoon.com)\
-[Java Dev Journal](https://www.javadevjournal.com)\
-[Zetcode](http://zetcode.com/)\
-[MKYong](https://mkyong.com/)\
-[Geeks for Geeks](https://www.geeksforgeeks.org)\
-[Fruzenshtein](http://fruzenshtein.com)\
-[The Open Tutorials](http://theopentutorials.com)\
 
 JavaScript
 ----------
@@ -120,63 +89,13 @@ JavaScript
 [Redux utilites](https://github.com/redux-utilities)  
 [ECMA Specification 2022](https://tc39.es/ecma262/multipage/#sec-intro)
 
-Kotlin
----------
-[Introduction to Kotlin](https://www.oreilly.com/library/view/introduction-to-kotlin/9781491964125/)\
-[Advanced Kotlin](https://www.oreilly.com/library/view/advanced-kotlin-programming/9781491964149/)\
-[Kotlin by example](https://play.kotlinlang.org/byExample/overview?_ga=2.217317206.1553730931.1610520425-1649066417.1609920389)\
-[Kotlin for java developers course](https://www.coursera.org/learn/kotlin-for-java-developers/)\
-[Kotlin Official Guides](https://kotlinlang.org/docs/home.html)\
-[Spring and kotlin](https://spring.io/guides/tutorials/spring-boot-kotlin/)
-
-Go
-----
-[Ref specification](https://golang.org/ref/spec)\
-[Documentation](https://godoc.org/ )\
-[Go by example](https://gobyexample.com/)\
-[Go web example](https://gowebexamples.com/ )\
-[Golang cafe](https://golang.cafe/)\
-[Go bridge forum](https://forum.golangbridge.org/)\
-[Golang bot](https://golangbot.com/)\
-[GIFM](https://gifm.dev/)\
-[Your basic](https://yourbasic.org/)\
-[Learn go with tests](https://quii.gitbook.io/learn-go-with-tests/ )\
-[Learn x in y minutes](https://learnxinyminutes.com/docs/go/)\
-[Intro books](https://www.golang-book.com/books/intro)
-
-Math
------
-[Secrets of Math Oxford University](http://podcasts.ox.ac.uk/series/secrets-mathematics)  
-[MIT open course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)  
-[Math World](https://mathworld.wolfram.com/)
 
 # Color Related
 [adobe color](https://color.adobe.com/create)
 
-
-Application platforms for build,deploy, and release
-----------------------------------------------------
-[CloudFoundry](https://www.cloudfoundry.org/)\
-[Waypointproject](https://www.waypointproject.io/)\
-[Heroku](https://www.heroku.com/)\
-[Vercel](https://vercel.com/)\
-[Netlify](https://www.netlify.com/)  
-[CircleCI](https://circleci.com/)
-
-
 # Architecture
 
 [Awesome architecture](https://awesome-architecture.com/)
-
-Microservices
--------------
-[Microservices IO](https://microservices.io/).  
-
-
-Android
----------
-[Google trainings](https://developer.android.com/courses)\
-[Android kotlin](https://developer.android.com/kotlin)
 
 React Native
 -----------
@@ -217,11 +136,9 @@ React Essentials
 [Log2Base2 DataStructures and Algorithms](https://log2base2.com/) 
 [Design Patterns](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)  
 [A curated list of high quality coding style conventions and standards](https://github.com/Kristories/awesome-guidelines)  
+[Visually know Algorithms](https://visualgo.net/en)  
+[Algorithm Visualizer](https://algorithm-visualizer.org/)
 
-
-Functional
-----------
-[F#](https://fsharpforfunandprofit.com/)
 
 Compurter Science
 ------------------
@@ -234,114 +151,6 @@ Compurter Science
 [Category Theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory)  
 [760+ Programming and Computer Science Courses](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)  
 
-
-# My bookmarks
-
-Google codelabs  
-https://codelabs.developers.google.com/
-
-Inheritence(recommended by Ko Thet Khine)   
-https://www.csee.umbc.edu/courses/331/resources/papers/Inheritance.pdf
-
-Software engineering at google     
-https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf
-
-
-Reddit favorites book about programming  
-https://redditfavorites.com/books?category_id=programming
-
-CS papers  
-https://github.com/papers-we-love/papers-we-love
-
 documentations in one place  
 https://devdocs.io/css/
 
-documenation in one place (offline and better)  
-https://zealdocs.org/
-
-Js frameworks and tools (best)  
-https://bestofjs.org/
-
-Hibernate or other ORM problem(N+1 query)  
-https://secure.phabricator.com/book/phabcontrib/article/n_plus_one/  
-
-JPA criteria
-https://en.wikibooks.org/wiki/Java_Persistence/Criteria
-  
-Reactive Programming  
-https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
-
-
-# Mind Book
-Behave:The biology of humans at our best and worst  
-
-How Mind works
-
-Blockchain
-==========
-[ethereum-blockchain-development](https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development/)  
-
-# Tools for Web Development
-[getwaves.io](getwaves.io)\
-[Bearer.sh API Monitoring](https://www.bearer.sh/)\
-[Cloudinary](https://cloudinary.com/)\
-[imgix](https://www.imgix.com/)\
-[Vultr](https://www.vultr.com/)\
-[Video with Wistia](https://wistia.com/)\
-[Videojs player](https://videojs.com/)\
-
-Docker, Container, Kubernetes
-------------------------------
-[Container.Training](https://container.training/)\
-[Docker-curriculum](https://docker-curriculum.com/)\
-[Docker Courses](https://www.katacoda.com/courses/docker)
-
-# 𝐅𝐫𝐞𝐞 𝐫𝐞𝐬𝐨𝐮𝐫𝐜𝐞 𝐟𝐨𝐫 𝐲𝐨𝐮𝐫 𝐃𝐞𝐯𝐎𝐩𝐬 𝐂𝐚𝐫𝐞𝐞𝐫  
-
-## 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐋𝐢𝐧𝐮𝐱
-https://www.edx.org/course/introduction-to-linux  
-
-## 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐨𝐟 𝐑𝐞𝐝 𝐇𝐚𝐭 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞 𝐋𝐢𝐧𝐮𝐱
-https://www.edx.org/.../fundamentals-of-red-hat...  
-
-## 𝐃𝐞𝐯𝐎𝐩𝐬 𝐂𝐮𝐥𝐭𝐮𝐫𝐞 𝐚𝐧𝐝 𝐌𝐢𝐧𝐝𝐬𝐞𝐭
-https://www.coursera.org/learn/devops-culture-and-mindset  
-
-## 𝐂𝐨𝐧𝐭𝐢𝐧𝐮𝐨𝐮𝐬 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐲 & 𝐃𝐞𝐯𝐎𝐩𝐬
-https://www.coursera.org/.../uva-darden-continous...  
-
-## 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐉𝐞𝐧𝐤𝐢𝐧𝐬
-https://www.edx.org/course/introduction-to-jenkins  
-
-## 𝐃𝐨𝐜𝐤𝐞𝐫 𝐄𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥𝐬
-https://www.udemy.com/course/docker-essentials/  
-
-## 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐂𝐥𝐨𝐮𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠
-https://www.coursera.org/learn/introduction-to-cloud  
-
-## 𝐀𝐖𝐒 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬: 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐀𝐖𝐒 𝐂𝐥𝐨𝐮𝐝 𝐄𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥𝐬
-https://explore.skillbuilder.aws/.../aws-foundations...  
-
-## 𝐀𝐖𝐒 𝐂𝐥𝐨𝐮𝐝 𝐏𝐫𝐚𝐜𝐭𝐢𝐭𝐢𝐨𝐧𝐞𝐫 𝐄𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥𝐬
-https://explore.skillbuilder.aws/.../aws-cloud...  
-
-## 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐰𝐢𝐭𝐡 𝐃𝐞𝐯𝐎𝐩𝐬 𝐨𝐧 𝐀𝐖𝐒
-https://explore.skillbuilder.aws/.../getting-started-with...  
-
-## 𝐀𝐖𝐒 𝐖𝐨𝐫𝐤𝐬𝐡𝐨𝐩𝐬
-https://workshops.aws/  
-
-## 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬: 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐒𝐭𝐚𝐫𝐭𝐞𝐝
-https://www.udemy.com/course/kubernetes-getting-started/  
-
-## 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐂𝐥𝐨𝐮𝐝-𝐍𝐚𝐭𝐢𝐯𝐞 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐰𝐢𝐭𝐡 𝐌𝐢𝐜𝐫𝐨𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞𝐬
-https://www.redhat.com/.../do092-developing-cloud-native...  
-
-## 𝐃𝐞𝐯𝐎𝐩𝐬 𝐓𝐡𝐞 𝐇𝐚𝐫𝐝 𝐖𝐚𝐲 𝐀𝐖𝐒
-https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS
-
-# Download Free Resouces
-[Ebook-courses-downloader](https://www.ebooks-courses-downloader.com/)  
-[One Hack]  
-[onehack.us]  
-[pirate bay]  
