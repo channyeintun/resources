@@ -1,6 +1,3 @@
-# My Library
-[Library drive](https://drive.google.com/drive/folders/1ExYEW0bFg7Kkzdam28k3GEH5mSFEO5ky?usp=sharing)  
-
 # Return Of Investment (ROI) (1>4)
   1. CS Knowledge
   2. Design Principles / Patterns
